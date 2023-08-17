@@ -28,7 +28,7 @@
 
 ![](https://komarev.com/ghpvc/?username=fredrikWHaug&color=blue)
 
-![AdrienC21's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrienC21&hide=prs,issues)
+![Fredrik's GitHub stats](https://github-readme-stats.vercel.app/api?username=fredrikWHaug&hide=prs,issues)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrienC21&layout=compact&hide=html,jupyter%20notebook)
 
