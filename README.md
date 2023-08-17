@@ -32,7 +32,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrienC21&layout=compact&hide=html,jupyter%20notebook)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdrienC21)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fredrikWHaug)
 
 <h3 align="left">💻 Some Tech Stacks:</h3>
 
