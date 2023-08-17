@@ -26,7 +26,7 @@
 
 <h3 align="left">📊 Stats:</h3>
 
-![](https://komarev.com/ghpvc/?username=AdrienC21&color=red)
+![](https://komarev.com/ghpvc/?username=fredrikWHaug&color=blue)
 
 ![AdrienC21's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrienC21&hide=prs,issues)
 
