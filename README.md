@@ -1,1 +1,1 @@
-### Boom, bam, bop, bada bop, boom, Pow!
+### Boom. Bam. Bop. Bada bop. Boom ... Pow!
